@@ -1,2 +1,3 @@
-# WebApi_ASP.NET_Ejercicio_Basico
-WebApi desarrollada con el framework ASP.NET CORE basado en este video https://www.youtube.com/watch?v=eRTmNqUCjXM&amp;t=2870s&amp;ab_channel=CodigoEstudiante.
+## Ejercicio práctico con ASP.NET
+## - Este ejericio consiste en un simple crud donde el contexto es el de un inventario de productos.
+## - Las tecnologias que se usaron fueron ASP.NET, Swagger, Entity Framework, y como base de datos MS SQL.
